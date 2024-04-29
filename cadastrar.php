@@ -5,6 +5,7 @@
   </label>
   <input type="submit" value="Salvar">
 </form>
-<a class="button" href="index.php">Ir para listagem de cidades</a>
+<a class="buttonBack" href="index.php">Ir para listagem de cidades</a>
 
 <link rel="stylesheet" href="style.css">
+<!-- cadastrar cidade -->

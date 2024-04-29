@@ -12,3 +12,4 @@ if($id) {
 header("Location: index.php");
 
 ?>
+<!-- excluir a cidade da tabela -->

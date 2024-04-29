@@ -27,3 +27,4 @@ if($name){
   header("Location: cadastrar.php");
   exit;
 }
+// cadastro da ação

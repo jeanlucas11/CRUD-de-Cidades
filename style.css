@@ -60,7 +60,7 @@ label {
   font-weight: bold;
 }
 
-.button {
+.buttonBack {
   position: absolute;
   right: 44%;
   text-decoration: none;
@@ -73,6 +73,7 @@ label {
   font-size: 20px;
 }
 
-.button:hover {
+.buttonBack:hover {
   background-color: rgb(213, 232, 248);
 }
+/* css do projeto */

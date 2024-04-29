@@ -36,3 +36,4 @@ if($sql->rowCount() > 0){
 <a class="cadastrar" href="./cadastrar.php">Cadastrar cidade</a>
 
 <link rel="stylesheet" href="style.css">
+<!-- index do projeto -->
