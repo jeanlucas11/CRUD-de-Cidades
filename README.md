@@ -17,8 +17,6 @@ Este projeto requer o uso do XAMPP e MySQL para ser executado localmente. Siga a
 
 ## Execução do Projeto
 
-1. Navegue até o diretório do projeto em um terminal ou prompt de comando.
+1. Inicie seu navegador e acesse o projeto localmente. Por exemplo, se o projeto estiver no diretório "C:\xampp\htdocs\meu-projeto", você pode acessá-lo em (http://localhost/meu-projeto).
 
-2. Inicie seu navegador e acesse o projeto localmente. Por exemplo, se o projeto estiver no diretório "C:\xampp\htdocs\meu-projeto", você pode acessá-lo em (http://localhost/meu-projeto).
-
-3. O projeto agora deve estar em execução localmente no seu navegador.
+2. O projeto agora deve estar em execução localmente no seu navegador.
