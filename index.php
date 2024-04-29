@@ -15,7 +15,7 @@ if($sql->rowCount() > 0){
 <table border="1">
   <tr>
     <th>ID</th>
-    <th>Nome da cidade:</th>
+    <th>Nome da cidade</th>
     <th>Ações</th>
   </tr>
   <?php foreach($lista as $cities): ?>
@@ -25,7 +25,7 @@ if($sql->rowCount() > 0){
       <td><?=$cities['name']; ?></td>
       <td>
         
-        <a href="excluir.php?id=<?=$cities['id']; ?>">[Excluir]</a>
+        <a href="excluir.php?id=<?=$cities['id']; ?>">Excluir</a>
         
       </td>
     </tr>
@@ -33,4 +33,6 @@ if($sql->rowCount() > 0){
     <?php endforeach; ?>
 
 </table>
-<a href="./cadastrar.php">Cadastrar cidade</a>
+<a class="cadastrar" href="./cadastrar.php">Cadastrar cidade</a>
+
+<link rel="stylesheet" href="style.css">
